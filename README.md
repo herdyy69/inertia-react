@@ -9,8 +9,8 @@
 Clone the repo locally:
 
 ```bash
-  git clone https://
-  cd my-project
+  git https://github.com/herdyy69/inertia-react.git
+  cd inertia-react
 ```
 Install PHP dependencies:
 ```bash
